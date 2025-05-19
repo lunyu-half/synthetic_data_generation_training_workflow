@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # This is the path where Isaac Sim is installed which contains the python.sh script
-ISAAC_SIM_PATH="<ENTER_FULL_PATH_TO_ISAAC_SIM_HERE>"
+# ISAAC_SIM_PATH="<ENTER_FULL_PATH_TO_ISAAC_SIM_HERE>"
+ISAAC_SIM_PATH="/home/lunyu/isaacsim"
 
 ## Go to location of the SDG script
 cd ../palletjack_sdg
